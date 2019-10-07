@@ -46,6 +46,10 @@ npm i jq-fakeloader
 
 `bgColor`  //Hex, RGB or RGBA colors
 
+`eventBefore` // Event before loading
+
+`eventAfter` // Event after loading
+
 ### Support
 If you encounter an issue or want to request a feature, you can create an [issue](https://github.com/joaopereirawd/fakeLoader.js/issues)
 
